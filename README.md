@@ -42,11 +42,11 @@ L'utilisation de ce script se fait sous votre propre responsabilité.
 ## Support & Contact
 Si vous rencontrez un problème ou souhaitez proposer une amélioration, vous pouvez nous contacter via :
 
-Email : support@example.com
+Email : À venir
 
-Forum : [lien du forum]
+Discord : [À venir]
 
-Site Web : [lien du site]
+Site Web : [À venir]
 
 ## Licence
 Ce script est distribué sous licence MIT. Vous êtes libre de le modifier et de le partager sous les mêmes conditions.
