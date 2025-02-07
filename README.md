@@ -20,4 +20,4 @@ Mystery Number is a game where the player must guess a mystery number.
 
 ## Contact:
 -------------
-For any questions or sugestions, contact us at [Be come to soon]
+For any questions or sugestions, contact us at [Be come to soon]!
