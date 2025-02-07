@@ -4,10 +4,10 @@ echo ********************************
 echo          Mystery Number
 echo ********************************
 timeout 1 > nul /NOBREAK
-echo Welcome to Mystery Number !
+echo Welcome to Mystery Number!
 echo 1 - Start the game
 echo 2 - Quit the game
-set /p choiceinput=Choice : 
+set /p choiceinput=Choice: 
 if %choiceinput%==1 goto start
 if %choiceinput%==2 exit
 :start
@@ -18,12 +18,12 @@ echo ********************************
 echo          Mystery Number
 echo ********************************
 timeout 1 > nul /NOBREAK
-set /p Nbrech=Choose your max number : 
+set /p Nbrech=Choose your max number: 
 set /a Nba=%random% %%%Nbrech%
 set /a Nc=0
 
 :question
-    set /p Nb=Your number : 
+    set /p Nb=Your number: 
     set /a nc=nc+1
 
 if %Nb% LSS %Nba% goto :PP
@@ -49,8 +49,8 @@ if %Nb% == %Nba% goto :Win
     echo ********************************
     echo          Mystery Number
     echo ********************************
-    echo - Attempts : %Nc%
-    echo - Number : %Nba%
+    echo - Attempts: %Nc%
+    echo - Number: %Nba%
     timeout 2 > nul /NOBREAK
     echo You have found!
     echo Well done!
