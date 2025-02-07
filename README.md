@@ -16,7 +16,7 @@ Mystery Number is a game where the player must guess a mystery number.
 ----------------
 1. Start the game
 2. Follow the clues to adjust your nets attempt.
-3. Find the rught number and win!
+3. Find the right number and win!
 
 ## Contact:
 -------------
